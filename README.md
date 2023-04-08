@@ -1,4 +1,4 @@
-# Audio-Visual Synthesis C++
+# Audio-Visual Synthesis [C++]
 
 Authors: <a href="https://account.linearfox.com/user/ntfargo/">Nathan Fargo</a>
 
