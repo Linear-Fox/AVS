@@ -1,5 +1,7 @@
 # Audio-Visual Synthesis [C++]
 
+<img width="512" src="https://cdn.discordapp.com/attachments/1038102985370251304/1092740060467703828/ai.png">
+
 Authors: <a href="https://account.linearfox.com/user/ntfargo/">Nathan Fargo</a>
 
 Project Page: <a href="https://researches.linearfox.com/avsynthesis">researches.linearfox.com/avsynthesis</a>
