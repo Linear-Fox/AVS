@@ -12,4 +12,4 @@ Project Page: <a href="https://research.linearfox.com">research.linearfox.com</a
 Audio-visual synthesis refers to the process of generating audio from a given video or generating video from a given audio. This project demonstrates how to perform audio-visual synthesis using pre-trained TensorFlow models in C++.
 
 ## Getting Started
-To use this code, you'll need to have the TensorFlow C++ library installed. You can download it from the <a href="https://www.tensorflow.org/install/lang_c">official TensorFlow website</a>.
+To use this code, you'll need to have the OpenCV, TensorFlow C++ library installed. You can download it from the <a href="https://www.tensorflow.org/install/lang_c">official TensorFlow website</a> and <a href="https://opencv.org/releases/"> for OpenCV Releases</a>
