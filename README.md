@@ -6,7 +6,7 @@ Authors: <a href="https://account.linearfox.com/user/ntfargo/">Nathan Fargo</a>
 
 AI: <a href="https://ai.linearfox.com/researches/">https://ai.linearfox.com/researches/</a>
 
-Project Page: <a href="https://researches.linearfox.com/avsynthesis">researches.linearfox.com/avsynthesis</a>
+Project Page: <a href="https://research.linearfox.com">research.linearfox.com</a>
 
 ## Introduction
 Audio-visual synthesis refers to the process of generating audio from a given video or generating video from a given audio. This project demonstrates how to perform audio-visual synthesis using pre-trained TensorFlow models in C++.
