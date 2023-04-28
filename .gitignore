@@ -1,0 +1,15 @@
+build/
+example/
+include/
+lib/
+results/
+.vscode/
+*.DS_Store
+*.o
+*.so
+*.a
+*.exe
+*.lib
+*.log
+data/
+models/
